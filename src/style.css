@@ -1,0 +1,15 @@
+* {
+    color: azure;
+    font-style: normal;
+    font-size: small;
+    padding: 20px;
+}
+
+title {
+    color: darkslategrey;
+    position: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    font-display: block;
+    font-size: 60px;
+}
+
